@@ -1,0 +1,6 @@
+Your Stock Portfolio Breakdown:
+• AMZN: 45 shares x $175 = $7875
+• TSLA: 30 shares x $250 = $7500
+• MSFT: 20 shares x $400 = $8000
+
+💰 Total Investment Value: $23375
